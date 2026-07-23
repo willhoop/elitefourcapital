@@ -13,6 +13,14 @@ conclusion is never silently rewritten; what changed and why is stated.
 
 ---
 
+## [1.0.3] — 2026-07-22
+
+### Added
+- **Governance and delivery files** to meet the portfolio's public-company documentation bar:
+  `LICENSE` (MIT), `SECURITY.md`, `CONTRIBUTING.md`, `.gitignore`, and a GitHub Actions CI
+  workflow that runs the test suite on every push and pull request.
+
+
 ## [1.0.2] — 2026-07-22
 
 ### Added
